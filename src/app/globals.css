@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.rbc-btn-group {
+  display: none !important;
+}
+
+.rbc-day-slot {
+  font-size: 10px !important;
+}
+
+.rbc-timeslot-group {
+  margin: 5px !important;
+  background-color: rgb(177, 211, 241) !important;
+}
+
+.rbc-time-slot {
+  font-size: 12px !important;
+}
+
+.rbc-event:nth-child(1) {
+  background-color: wheat !important;
+}
