@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Sultan School Management System
 
 ## Getting Started
 
